@@ -1,0 +1,7 @@
+venv
+.DS_Store
+.env
+.devcontainer
+.$system-design.drawio.bkp
+.$system-design.drawio.dtmp
+system-design.drawio
